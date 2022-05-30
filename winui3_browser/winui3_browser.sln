@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "winui3_browser (Package)", "winui3_browser\winui3_browser (Package)\winui3_browser (Package).wapproj", "{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winui3_browser", "winui3_browser\winui3_browser\winui3_browser.vcxproj", "{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Debug|arm64.ActiveCfg = Debug|arm64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Debug|arm64.Build.0 = Debug|arm64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Debug|arm64.Deploy.0 = Debug|arm64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Debug|x64.ActiveCfg = Debug|x64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Debug|x64.Build.0 = Debug|x64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Debug|x64.Deploy.0 = Debug|x64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Debug|x86.ActiveCfg = Debug|x86
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Debug|x86.Build.0 = Debug|x86
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Debug|x86.Deploy.0 = Debug|x86
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Release|arm64.ActiveCfg = Release|arm64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Release|arm64.Build.0 = Release|arm64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Release|arm64.Deploy.0 = Release|arm64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Release|x64.ActiveCfg = Release|x64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Release|x64.Build.0 = Release|x64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Release|x64.Deploy.0 = Release|x64
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Release|x86.ActiveCfg = Release|x86
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Release|x86.Build.0 = Release|x86
+		{7B257F6F-5B47-4CDA-886E-B06EC4D23F48}.Release|x86.Deploy.0 = Release|x86
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Debug|arm64.ActiveCfg = Debug|arm64
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Debug|arm64.Build.0 = Debug|arm64
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Debug|x64.ActiveCfg = Debug|x64
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Debug|x64.Build.0 = Debug|x64
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Debug|x86.ActiveCfg = Debug|Win32
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Debug|x86.Build.0 = Debug|Win32
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Release|arm64.ActiveCfg = Release|arm64
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Release|arm64.Build.0 = Release|arm64
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Release|x64.ActiveCfg = Release|x64
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Release|x64.Build.0 = Release|x64
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Release|x86.ActiveCfg = Release|Win32
+		{2F2C53FC-15AF-4DA9-A0CB-CC93552B5CE3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C3C645-3A8A-4FF7-A018-E873C02520B2}
+	EndGlobalSection
+EndGlobal
